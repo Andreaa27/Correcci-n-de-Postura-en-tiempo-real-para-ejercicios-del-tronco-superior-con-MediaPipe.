@@ -1,0 +1,2 @@
+# Correcci-n-de-Postura-en-tiempo-real-para-ejercicios-del-tronco-superior-con-MediaPipe.
+Proyecto de análisis de ejercicios de fuerza (dominadas, push-ups y remo) mediante visión por computadora y aprendizaje automático. El sistema permite entrenar modelos de fases de movimiento, evaluar repeticiones con retroalimentación en tiempo real y comparar resultados con datos de referencia (ground truth).
